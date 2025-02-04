@@ -1,15 +1,15 @@
 # Projeto 6-A: **Sistema de Semáforo com Raspberry Pi Pico**
 **EMBARCATECH - UNIDADE 04**
 
-## Desenvolvedora
-**Desenvolvido pela aluna Graziele Coelho de Alencar**
+## Desenvolvedor
+**Desenvolvido pelo o aluno Eduardo Medeiros Magalhães**
 
 ## Links:
-- Execução na BitDogLab:
-https://drive.google.com/file/d/1MiMP5I55yF8cWqjxPUIdXtgwczMS_B2A/view?usp=drive_link
+- Vídeo no youtube da execução na placa Bitdoglab:
+Link: https://youtube.com/shorts/nlIwf3fAbrY?feature=share
 
-- Execução no Wokwi integrado no VS Code:
-https://drive.google.com/file/d/1nOIxOAVnCOcZ1oKCbkF6jDMOHvSei1iU/view?usp=drive_link
+- Vídeo no youtube da execução no Wokwi integrado no VS Code:
+Link: https://youtu.be/XmyWgm21j2I
 
 ## **Descrição do Projeto**
 Este projeto implementa um sistema de semáforo simples utilizando o microcontrolador Raspberry Pi Pico, LEDs e a biblioteca Pico SDK. O programa controla os estados dos LEDs (vermelho, amarelo e verde) em intervalos regulares, simulando o funcionamento de um semáforo. Além disso, o estado atual do semáforo é exibido pela porta serial.
